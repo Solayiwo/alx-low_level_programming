@@ -5,7 +5,7 @@
 /**
  * main - Entry point
  *
- * Description: A C program that print whether the number stored in the variable n is positive or negative
+ * Description: print value of n satus either zero, positive or negative
  *
  * Return: Always 0 (Success)
 */
