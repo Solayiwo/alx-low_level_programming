@@ -4,6 +4,7 @@
  * int _islower(int c) - Entry point
  *
  * Description: function that checks for lowercase character
+ * using int _islower(int c) prototype
  * @c: parameter to be checked
  *
  * Return: Always 0 (Success)
