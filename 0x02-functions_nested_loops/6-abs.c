@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * int _abs - Entry point
+ * _abs - Entry point
  *
  * Description: function that computes the absolute value of an integer
  * using int _abs(int) prototype
