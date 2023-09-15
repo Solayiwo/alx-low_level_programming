@@ -4,7 +4,7 @@
  * print_diagonal - Entry point
  *
  * Description: Function that draws a diagonal line on the terminal
- * using void void print_diagonal(int n) prototype.
+ * using void print_diagonal(int n) prototype.
  *@n: Parameter to be checked
  *
  * Return: void
