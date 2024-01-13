@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strncmp - Entry point
+ * _strcmp - Entry point
  * Description: Function that compare two string
  * @s1: parameter 1
  * @s2: parameter 2
