@@ -7,6 +7,7 @@
  * @s2: parameter 2
  * Return: int
  */
+
 int _strcmp(char *s1, char *s2)
 {
 	int i;
