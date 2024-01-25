@@ -1,7 +1,7 @@
 #include "3-calc.h"
 
 /**
- * print_name - Entry point
+ * main - Entry point
  * Description: Check the codes
  * @argc: argument count
  * @argv: argument vector
